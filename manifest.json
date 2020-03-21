@@ -3,7 +3,7 @@
   "name": "Denis Speed Deal",
   "short_name": "Speed Deal",
   "description": "My favorite links in simple Speed Deal.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "chrome_url_overrides": {
     "newtab": "speeddeal.html"
   },
